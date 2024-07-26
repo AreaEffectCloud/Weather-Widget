@@ -19,6 +19,6 @@ A web application that displays the current weather, temperature, humidity, and 
 - **Frontend**:
     - SCSS: Extends CSS for more efficient stylesheets
     - JavaScript: Enables dynamic elements and API interactions
-- **API**: OpenWeatherMap
+- **API**: [OpenWeatherMap](https://openweathermap.org/api)
 > [!IMPORTANT]
 > If you want to use this repo to get weather data, you'll need to sign up for an OpenWeatherMap account, obtain an API key, and add it to your project's `index.js`.
